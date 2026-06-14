@@ -1,0 +1,11 @@
+Parte 2 - Prompt simples
+"Quem é Alan Turing?"
+
+Parte 2 - Prompt elaborado
+"Me faça uma explicação detalhada sobre quem foi Alan Turing e a sua imensa contribuição para a sociedade atual. Gostaria que focasse um pouco tambem na perseguição que o mesmo sofreu por conta de ser homossexual. O trabalho é para uma apresentação na disciplina de "Introdução à Ciência da Computação" para os meus colegas (Sou um aluno)."
+
+Parte 3 - Prompt simples
+"Faça um código-fonte de um programa que diz qual é o valor do termo n da sequência de Fibonacci"
+
+Parte 4 - Prompt elaborado
+"Escreva um programa em Python que calcula o valor do termo n da sequência de Fibonacci. Inclua comentários no código explicando cada bloco lógico. Mostre exemplos de entrada e saída. O programa deve tratar erros como entrada negativa, não-inteira ou muito grande. Não use bibliotecas externas, use um laço while e não recursão."
